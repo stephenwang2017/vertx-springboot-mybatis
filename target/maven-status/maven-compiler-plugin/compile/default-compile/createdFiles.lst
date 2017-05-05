@@ -1,0 +1,10 @@
+realtimeauctions\AuctionHandler.class
+realtimeauctions\AuctionApplication.class
+realtimeauctions\AuctionValidator.class
+realtimeauctions\Auction.class
+realtimeauctions\AuctionNotFoundException.class
+realtimeauctions\AuctionRepository.class
+realtimeauctions\MyDAO.class
+realtimeauctions\AuctionServiceVerticle.class
+realtimeauctions\MyService.class
+realtimeauctions\DataSourceConfig.class

@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: vertx
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: JJOSIK
+Implementation-Vendor-Id: com.kbsys.app
+Build-Jdk: 1.8.0_131
+Implementation-URL: http://projects.spring.io/spring-boot/vertx/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
